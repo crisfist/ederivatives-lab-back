@@ -1,0 +1,1 @@
+INSERT INTO USUARIO (user_name, password, name, surname, email, phone) VALUES('crisfist', 'cris@fist', 'cristian', 'chavarro', 'crisfist@gmail.com', '988678845');
